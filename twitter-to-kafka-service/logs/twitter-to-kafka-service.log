@@ -1,0 +1,74 @@
+2023-05-17 21:57:57 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 21:57:57 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89252 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 21:57:57 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 21:57:57 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'io.microservices.pro.config.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2023-05-17 21:57:58 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in io.microservices.pro.TwitterToKafkaServiceApplication required a bean of type 'io.microservices.pro.config.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'io.microservices.pro.config.TwitterToKafkaServiceConfigData' in your configuration.
+
+2023-05-17 22:00:29 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:00:29 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89270 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:00:29 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:00:30 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.877 seconds (process running for 1.373)
+2023-05-17 22:00:30 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:00:30 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:07:59 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:07:59 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89346 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:07:59 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:08:00 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.778 seconds (process running for 1.315)
+2023-05-17 22:08:00 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:08:00 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:08:00 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - null
+2023-05-17 22:08:43 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:08:43 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89355 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:08:43 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:08:43 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.755 seconds (process running for 1.264)
+2023-05-17 22:08:43 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:08:43 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:08:43 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - null
+2023-05-17 22:09:08 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:09:08 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89359 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:09:08 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:09:09 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.792 seconds (process running for 1.292)
+2023-05-17 22:09:09 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:09:09 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:09:09 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - null
+2023-05-17 22:10:00 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:10:00 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89367 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:10:00 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:10:01 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.75 seconds (process running for 1.259)
+2023-05-17 22:10:01 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:10:01 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:10:01 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Welcome
+2023-05-17 22:10:23 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:10:23 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89373 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:10:23 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:10:23 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.819 seconds (process running for 1.381)
+2023-05-17 22:10:23 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:10:23 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:10:23 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Welcome Godfred
+2023-05-17 22:28:16 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:28:16 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89557 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:28:16 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:28:16 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.81 seconds (process running for 1.366)
+2023-05-17 22:28:16 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:28:16 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:28:16 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Welcome Godfred
+2023-05-17 22:28:26 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2023-05-17 22:28:26 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.6 with PID 89563 (/Users/macintosh/Documents/microservices-pro/twitter-to-kafka-service/target/classes started by macintosh in /Users/macintosh/Documents/microservices-pro)
+2023-05-17 22:28:26 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-17 22:28:27 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.837 seconds (process running for 1.369)
+2023-05-17 22:28:27 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - App starts...
+2023-05-17 22:28:27 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-05-17 22:28:27 [main] INFO  i.m.p.TwitterToKafkaServiceApplication - Welcomes Godfred
