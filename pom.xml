@@ -16,12 +16,13 @@
 	<description>Microservices demo project for Spring Boot</description>
 	<modules>
 		<module>twitter-to-kafka-service</module>
-	</modules>
+        <module>app-config-data</module>
+    </modules>
 	<properties>
 		<java.version>17</java.version>
 		<spring-boot.version>3.0.6</spring-boot.version>
-		<twitter-server_2.13.version>22.1.0</twitter-server_2.13.version>
 		<lombok.version>1.18.26</lombok.version>
+		<twitter-stream.version>4.0.7</twitter-stream.version>
 	</properties>
 
 
@@ -40,11 +41,13 @@
 				<scope>test</scope>
 			</dependency>
 
+
 			<dependency>
-				<groupId>com.twitter</groupId>
-				<artifactId>twitter-server_2.13</artifactId>
-				<version>${twitter-server_2.13.version}</version>
+				<groupId>org.twitter4j</groupId>
+				<artifactId>twitter4j-stream</artifactId>
+				<version>${twitter-stream.version}</version>
 			</dependency>
+
 
 			<dependency>
 				<groupId>org.projectlombok</groupId>

@@ -9,7 +9,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>twitter-to-kafka-service</artifactId>
+    <artifactId>app-config-data</artifactId>
 
     <dependencies>
         <dependency>
@@ -23,10 +23,10 @@
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId>org.twitter4j</groupId>
-            <artifactId>twitter4j-stream</artifactId>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.twitter4j</groupId>-->
+<!--            <artifactId>twitter4j-stream</artifactId>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -34,16 +34,6 @@
             <scope>compile</scope>
         </dependency>
     </dependencies>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <version>${spring-boot.version}</version>
-            </plugin>
-        </plugins>
-    </build>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
