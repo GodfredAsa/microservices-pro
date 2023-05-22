@@ -37,7 +37,6 @@ public class MockKafkaStreamRunner implements StreamRunner {
             "\"user\":{\"id\":\"{3}\"}" +
             "}";
 
-
     public MockKafkaStreamRunner(TwitterKafkaStatusListener twitterKafkaStatusListener, TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData) {
         this.twitterKafkaStatusListener = twitterKafkaStatusListener;
         this.twitterToKafkaServiceConfigData = twitterToKafkaServiceConfigData;
@@ -51,8 +50,6 @@ public class MockKafkaStreamRunner implements StreamRunner {
         long sleepTimeMs = twitterToKafkaServiceConfigData.getMockSleepMs();
         LOG.info("Started Mocking Twitter Data Stream for Keywords {}", Arrays.toString(keywords));
         simulateTwitterStream(keywords, minTweetLength, maxTweetLength, sleepTimeMs);
-
-
     }
 
     private void simulateTwitterStream(String[] keywords, int minTweetLength, int maxTweetLength, long sleepTimeMs){
