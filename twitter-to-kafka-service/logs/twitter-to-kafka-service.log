@@ -9104,3 +9104,233 @@ Caused by: java.lang.IllegalStateException: Authentication credentials are missi
 2023-05-22 23:29:02 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque sed dolor Dasse ascenes Java Besuere Besuere conque conque
 2023-05-22 23:29:03 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner magna conque aulviner porttitor aulviner conque Elasticsearch ipsum Dasse ultricies magna Durus conque
 2023-05-22 23:29:04 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed adipiscina ultricies Lorem sed elit sensectetuer Elasticsearch sensectetuer aulviner ipsum conque ultricies conque
+2023-05-22 23:29:05 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus sed ipsum elit dolor sed Spring Lorem ascenes aulviner Besuere
+2023-05-22 23:29:06 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit Lorem adipiscina libero ipsum Lorem Elasticsearch porttitor sensectetuer aulviner Durus
+2023-05-22 23:29:07 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner dolor dolor porttitor sensectetuer sensectetuer Elasticsearch Dasse magna elit ultricies dolor
+2023-05-22 23:29:08 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero Besuere Lorem ascenes Durus Durus Java Besuere libero magna libero Dasse
+2023-05-22 23:29:09 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse elit conque Java libero ultricies
+2023-05-22 23:29:10 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer Dasse porttitor ascenes dolor Kafka elit Dasse sensectetuer
+2023-05-22 23:29:11 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor porttitor Dasse porttitor adipiscina Elasticsearch sed aulviner libero ultricies
+2023-05-22 23:29:12 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus elit Durus porttitor Durus porttitor dolor sensectetuer Microservices sensectetuer ascenes Besuere sensectetuer ascenes ipsum ultricies
+2023-05-22 23:29:13 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies libero dolor conque Java elit ipsum porttitor
+2023-05-22 23:29:14 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina dolor Dasse Besuere sensectetuer Lorem magna conque Elasticsearch ipsum adipiscina adipiscina libero sed sensectetuer
+2023-05-22 23:29:15 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies aulviner Besuere dolor dolor ascenes Microservices magna conque Lorem magna
+2023-05-22 23:29:16 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner adipiscina sensectetuer conque porttitor ultricies Besuere Spring porttitor Lorem Durus ultricies adipiscina magna
+2023-05-22 23:29:17 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina aulviner dolor sed libero ipsum Dasse Lorem Java ascenes aulviner Dasse ipsum sed adipiscina libero
+2023-05-22 23:29:18 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina dolor ultricies Durus libero sensectetuer Durus Java libero ipsum conque aulviner elit
+2023-05-22 23:29:19 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum ultricies conque elit Besuere dolor Spring adipiscina Dasse conque porttitor
+2023-05-22 23:29:20 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies conque aulviner elit elit porttitor ultricies Lorem Java sed porttitor Durus ascenes adipiscina magna ultricies
+2023-05-22 23:29:21 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit sed adipiscina porttitor porttitor ipsum ascenes Spring aulviner porttitor sensectetuer Besuere sed
+2023-05-22 23:29:22 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit libero conque sensectetuer elit Spring adipiscina dolor dolor Besuere
+2023-05-22 23:29:23 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes Besuere ascenes porttitor porttitor elit Durus Durus Elasticsearch sed conque aulviner magna aulviner Lorem
+2023-05-22 23:29:24 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse Durus ipsum porttitor Lorem Kafka porttitor adipiscina sed Lorem
+2023-05-22 23:29:25 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque libero Lorem Dasse magna ultricies Dasse Java porttitor aulviner magna ultricies ultricies elit
+2023-05-22 23:29:26 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse sensectetuer libero Durus magna aulviner libero ascenes Kafka Durus conque elit porttitor libero sed
+2023-05-22 23:29:27 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina conque dolor magna Durus Microservices sensectetuer conque Lorem dolor
+2023-05-22 23:29:28 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum dolor sensectetuer sed Lorem conque aulviner Java aulviner sensectetuer dolor sed ultricies
+2023-05-22 23:29:29 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem elit ipsum libero Lorem ipsum adipiscina Elasticsearch ultricies Dasse sed sensectetuer porttitor Dasse
+2023-05-22 23:29:30 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes libero Durus ascenes Microservices Durus ascenes
+2023-05-22 23:29:31 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero ipsum Besuere Lorem conque magna Spring aulviner ascenes Durus porttitor
+2023-05-22 23:29:32 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina Dasse Durus dolor Besuere aulviner Java porttitor Besuere Besuere magna
+2023-05-22 23:29:33 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner Lorem dolor adipiscina sensectetuer conque Spring ultricies libero libero Lorem
+2023-05-22 23:29:34 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes sensectetuer dolor ascenes Lorem porttitor Dasse Elasticsearch sed Dasse ultricies dolor ultricies Besuere
+2023-05-22 23:29:35 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed porttitor Durus Dasse ultricies dolor dolor Spring porttitor ultricies conque magna magna
+2023-05-22 23:29:36 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner adipiscina Dasse Durus porttitor Microservices Durus ultricies porttitor libero
+2023-05-22 23:29:37 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed sed conque sed libero ascenes Elasticsearch sensectetuer ultricies ultricies ascenes libero
+2023-05-22 23:29:38 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer Durus dolor sed Kafka magna ultricies Lorem
+2023-05-22 23:29:39 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero Dasse Durus sensectetuer Kafka Lorem aulviner
+2023-05-22 23:29:40 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit aulviner magna Lorem libero sensectetuer ultricies Elasticsearch dolor ascenes libero ultricies sensectetuer ascenes
+2023-05-22 23:29:41 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor ultricies libero libero libero ipsum Dasse Kafka ipsum Durus Besuere conque Besuere
+2023-05-22 23:29:42 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse aulviner sed aulviner magna ultricies Besuere Java elit elit aulviner adipiscina Besuere porttitor
+2023-05-22 23:29:43 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor porttitor magna Dasse elit sed aulviner Java adipiscina libero ultricies adipiscina ascenes
+2023-05-22 23:29:44 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit ipsum magna aulviner Durus Dasse porttitor Microservices adipiscina ultricies ascenes sensectetuer aulviner porttitor
+2023-05-22 23:29:45 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit elit aulviner Dasse ipsum Lorem ipsum aulviner Java aulviner Besuere Durus ascenes ultricies Durus
+2023-05-22 23:29:46 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text magna ascenes ipsum Durus conque ultricies Elasticsearch aulviner ascenes adipiscina adipiscina
+2023-05-22 23:29:47 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum conque ascenes Lorem Besuere libero conque adipiscina Microservices ultricies sensectetuer Durus porttitor ipsum Lorem porttitor
+2023-05-22 23:29:48 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor ipsum magna Kafka porttitor magna
+2023-05-22 23:29:49 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem Lorem sensectetuer Lorem Kafka Besuere libero sed
+2023-05-22 23:29:50 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum sensectetuer Durus Microservices ipsum elit
+2023-05-22 23:29:51 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes ascenes ultricies Durus Kafka ascenes Besuere
+2023-05-22 23:29:52 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse Besuere magna Dasse Besuere adipiscina magna Spring Dasse adipiscina sed aulviner ascenes
+2023-05-22 23:29:53 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text magna porttitor aulviner ipsum Lorem Besuere dolor Durus Kafka Lorem ascenes ultricies sed conque aulviner dolor
+2023-05-22 23:29:54 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer dolor adipiscina dolor ascenes Kafka ipsum conque Lorem Besuere
+2023-05-22 23:29:55 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem libero Durus Durus Kafka ultricies ipsum magna
+2023-05-22 23:29:56 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text magna Dasse aulviner ipsum adipiscina Kafka ultricies sensectetuer aulviner
+2023-05-22 23:29:57 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse sensectetuer conque ipsum dolor libero ipsum Microservices Lorem elit dolor conque sensectetuer
+2023-05-22 23:29:58 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus aulviner Dasse porttitor adipiscina libero Lorem Besuere Spring Besuere magna ipsum elit porttitor adipiscina Besuere
+2023-05-22 23:29:59 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor sed ultricies Dasse Spring ultricies libero ipsum
+2023-05-22 23:30:00 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes Besuere elit libero Besuere sensectetuer Java Lorem sed Durus libero
+2023-05-22 23:30:01 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed ultricies aulviner ipsum Elasticsearch Besuere adipiscina Dasse
+2023-05-22 23:30:02 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed ascenes elit Java adipiscina magna
+2023-05-22 23:30:03 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed aulviner magna adipiscina aulviner Java elit porttitor Lorem
+2023-05-22 23:30:04 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer sensectetuer ascenes sed dolor Besuere Kafka Besuere sensectetuer adipiscina Lorem
+2023-05-22 23:30:05 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies sensectetuer Lorem conque elit porttitor elit Durus Kafka ascenes porttitor conque magna sensectetuer libero
+2023-05-22 23:30:06 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero libero dolor Durus porttitor aulviner Durus Spring adipiscina sed dolor ultricies dolor ultricies
+2023-05-22 23:30:07 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina conque Durus sensectetuer Besuere dolor elit ascenes Microservices ipsum aulviner Dasse elit ascenes sed
+2023-05-22 23:30:08 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner Durus sensectetuer adipiscina Java elit ipsum ascenes
+2023-05-22 23:30:09 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere ascenes Dasse Durus elit adipiscina sed ipsum Elasticsearch porttitor ipsum ascenes sed elit ipsum
+2023-05-22 23:30:10 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere ipsum porttitor magna Durus libero Dasse magna Elasticsearch adipiscina magna Lorem sensectetuer conque Lorem ascenes
+2023-05-22 23:30:11 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque ascenes sed Besuere ipsum dolor Dasse Java conque elit Durus adipiscina conque magna
+2023-05-22 23:30:12 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes Dasse Besuere sensectetuer sensectetuer Lorem sed ipsum Kafka libero ascenes ipsum Dasse porttitor Durus
+2023-05-22 23:30:13 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus libero ultricies elit Lorem Microservices dolor magna libero
+2023-05-22 23:30:14 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner elit dolor adipiscina Microservices magna ipsum sed
+2023-05-22 23:30:15 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner sed ipsum adipiscina Java conque ultricies porttitor
+2023-05-22 23:30:16 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina magna Durus libero Microservices Besuere sensectetuer
+2023-05-22 23:30:17 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies ascenes ultricies Dasse Spring Dasse Besuere
+2023-05-22 23:30:18 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor adipiscina magna elit adipiscina Java porttitor magna libero
+2023-05-22 23:30:19 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed porttitor sed Durus porttitor adipiscina ultricies dolor Spring ipsum ipsum elit porttitor Dasse Lorem dolor
+2023-05-22 23:30:20 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere porttitor conque ultricies Dasse porttitor dolor Java libero Dasse Dasse sed libero
+2023-05-22 23:30:21 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina aulviner libero sed Elasticsearch elit elit
+2023-05-22 23:30:22 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor porttitor Durus Kafka elit aulviner
+2023-05-22 23:30:23 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies ipsum elit aulviner Java conque Dasse
+2023-05-22 23:30:24 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque libero libero Lorem Java ipsum aulviner Durus
+2023-05-22 23:30:25 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina conque ascenes adipiscina conque Kafka conque ascenes porttitor adipiscina
+2023-05-22 23:30:26 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere magna Lorem sensectetuer sensectetuer libero conque sed Elasticsearch ipsum Dasse elit sensectetuer porttitor magna libero
+2023-05-22 23:30:27 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer Besuere porttitor adipiscina elit ipsum porttitor Besuere Microservices ultricies elit Durus libero conque sed libero
+2023-05-22 23:30:28 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner Besuere sensectetuer aulviner Elasticsearch sensectetuer Durus
+2023-05-22 23:30:29 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum Dasse aulviner sensectetuer ultricies libero Elasticsearch magna Durus dolor porttitor ipsum
+2023-05-22 23:30:30 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere conque Lorem ascenes dolor Elasticsearch sensectetuer sensectetuer dolor
+2023-05-22 23:30:31 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero ipsum porttitor Lorem conque Spring dolor Durus magna conque
+2023-05-22 23:30:32 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero Durus Besuere Microservices adipiscina ultricies
+2023-05-22 23:30:33 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer dolor ultricies ascenes magna Spring conque sensectetuer porttitor
+2023-05-22 23:30:34 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor ultricies adipiscina ascenes magna ascenes ascenes Elasticsearch Durus adipiscina ascenes adipiscina ipsum
+2023-05-22 23:30:35 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque Durus conque Besuere Durus Besuere elit Java sensectetuer ultricies Besuere ascenes ascenes Besuere
+2023-05-22 23:30:36 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus magna ultricies sed conque magna Lorem porttitor Spring magna Durus aulviner ipsum adipiscina aulviner ipsum
+2023-05-22 23:30:37 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum sed aulviner magna Elasticsearch porttitor Lorem Durus
+2023-05-22 23:30:38 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit sed Besuere ultricies sed adipiscina Kafka porttitor dolor ultricies dolor sensectetuer
+2023-05-22 23:30:39 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus dolor Durus Spring ultricies elit
+2023-05-22 23:30:40 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque dolor Besuere magna sensectetuer elit Java Besuere Lorem Besuere elit sensectetuer
+2023-05-22 23:30:41 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor libero adipiscina Spring porttitor porttitor
+2023-05-22 23:30:42 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies aulviner Lorem Besuere Besuere Microservices ipsum Dasse ultricies
+2023-05-22 23:30:43 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer ascenes sensectetuer dolor sed Lorem dolor sed Microservices porttitor adipiscina libero porttitor aulviner Besuere adipiscina
+2023-05-22 23:30:44 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero Durus conque adipiscina ultricies sed magna ascenes Microservices ultricies dolor Durus Durus ipsum magna
+2023-05-22 23:30:45 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus Dasse ultricies Dasse Kafka aulviner Durus elit
+2023-05-22 23:30:46 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner sensectetuer sed Java sed Besuere
+2023-05-22 23:30:47 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero libero Lorem sensectetuer sed ipsum Microservices porttitor Durus dolor porttitor
+2023-05-22 23:30:48 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina dolor adipiscina ipsum sed sensectetuer Java adipiscina Durus dolor Besuere
+2023-05-22 23:30:49 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer conque elit Durus Elasticsearch sensectetuer Lorem Durus
+2023-05-22 23:30:50 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner libero Lorem porttitor ascenes adipiscina magna ascenes Spring Durus magna dolor sensectetuer aulviner porttitor ascenes
+2023-05-22 23:30:51 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text magna elit adipiscina magna dolor porttitor sed Spring Dasse sed ultricies Lorem ascenes dolor
+2023-05-22 23:30:52 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero magna sensectetuer ascenes ultricies ipsum libero ipsum Kafka Durus Durus sed libero sed magna ascenes
+2023-05-22 23:30:53 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina porttitor ultricies Microservices Dasse Lorem
+2023-05-22 23:30:54 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text magna magna libero magna Java sed elit Besuere
+2023-05-22 23:30:55 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor conque Durus ascenes aulviner Lorem ascenes sed Spring libero ultricies sensectetuer libero aulviner sed sensectetuer
+2023-05-22 23:30:56 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor adipiscina porttitor Lorem ipsum Lorem Spring sed Dasse conque Lorem
+2023-05-22 23:30:57 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque libero magna magna Kafka libero Durus libero
+2023-05-22 23:30:58 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina elit sed aulviner Spring Durus Besuere aulviner
+2023-05-22 23:30:59 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere conque Besuere conque Java conque adipiscina
+2023-05-22 23:31:00 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum ascenes dolor sensectetuer libero adipiscina Lorem Java sensectetuer adipiscina ultricies ipsum elit
+2023-05-22 23:31:01 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes Dasse ultricies aulviner conque Java sed dolor elit
+2023-05-22 23:31:02 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere porttitor Lorem adipiscina ascenes libero sed Java dolor ascenes elit sed Besuere porttitor
+2023-05-22 23:31:03 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner dolor porttitor Durus dolor sensectetuer sensectetuer Lorem Microservices ipsum sed magna Lorem libero Besuere dolor
+2023-05-22 23:31:04 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem conque dolor aulviner Dasse Microservices sed aulviner ipsum
+2023-05-22 23:31:05 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque ultricies elit ultricies aulviner Elasticsearch magna porttitor Dasse adipiscina
+2023-05-22 23:31:06 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem ultricies libero Durus elit dolor Java sensectetuer Besuere dolor conque
+2023-05-22 23:31:07 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina aulviner adipiscina Java ultricies aulviner
+2023-05-22 23:31:08 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere libero Besuere Java magna porttitor
+2023-05-22 23:31:09 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse aulviner Durus Lorem Kafka Lorem magna ascenes
+2023-05-22 23:31:10 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem magna conque Lorem sensectetuer Durus Microservices Dasse Durus ascenes ascenes dolor
+2023-05-22 23:31:11 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer elit ascenes Microservices sed Durus
+2023-05-22 23:31:12 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum sed elit aulviner dolor elit Microservices ascenes conque porttitor Lorem
+2023-05-22 23:31:13 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem aulviner sensectetuer libero Spring ipsum adipiscina
+2023-05-22 23:31:14 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer porttitor magna Dasse sed Kafka Dasse conque Dasse Dasse
+2023-05-22 23:31:15 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus aulviner libero dolor sensectetuer aulviner Spring magna ipsum adipiscina sensectetuer dolor
+2023-05-22 23:31:16 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem conque ipsum sed ascenes aulviner Besuere ascenes Kafka sensectetuer ascenes elit dolor ipsum conque ascenes
+2023-05-22 23:31:17 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere sed elit conque Elasticsearch Lorem sensectetuer elit
+2023-05-22 23:31:18 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer ascenes Lorem sensectetuer ipsum ascenes Kafka Durus Besuere dolor Lorem
+2023-05-22 23:31:19 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer ultricies Besuere conque Lorem ipsum Besuere Kafka Durus aulviner Lorem ascenes libero
+2023-05-22 23:31:20 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus porttitor ultricies adipiscina adipiscina Lorem porttitor Spring libero Dasse sensectetuer adipiscina Dasse
+2023-05-22 23:31:21 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner porttitor dolor Durus dolor Spring magna porttitor dolor
+2023-05-22 23:31:22 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor sensectetuer Besuere Besuere ascenes ascenes Kafka libero ipsum adipiscina conque
+2023-05-22 23:31:23 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner ipsum aulviner Dasse elit ascenes sensectetuer sed Elasticsearch porttitor Dasse ipsum sed elit conque
+2023-05-22 23:31:24 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina ultricies ultricies conque ipsum elit Spring sed dolor Dasse elit adipiscina
+2023-05-22 23:31:25 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor sensectetuer ascenes Durus ultricies sensectetuer Kafka aulviner adipiscina adipiscina elit
+2023-05-22 23:31:26 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus ultricies ultricies adipiscina dolor libero Kafka Dasse Lorem ipsum ascenes Besuere
+2023-05-22 23:31:27 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed magna Durus porttitor sensectetuer Dasse Java dolor porttitor elit ipsum sensectetuer
+2023-05-22 23:31:28 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor adipiscina adipiscina porttitor ipsum elit sensectetuer Microservices Lorem Dasse sed Besuere dolor Dasse
+2023-05-22 23:31:29 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes dolor Besuere elit dolor adipiscina Java sed libero dolor elit Besuere
+2023-05-22 23:31:30 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies Dasse aulviner Durus ascenes ascenes Microservices sed ascenes adipiscina aulviner
+2023-05-22 23:31:31 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer ultricies Dasse magna magna Dasse ipsum Spring sed Dasse magna conque porttitor
+2023-05-22 23:31:32 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina ultricies Lorem magna Dasse Kafka libero Dasse conque elit
+2023-05-22 23:31:33 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum sensectetuer libero Java conque aulviner
+2023-05-22 23:31:34 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit elit ultricies dolor sed sensectetuer Lorem porttitor Elasticsearch sed sed aulviner magna adipiscina magna
+2023-05-22 23:31:35 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor adipiscina Lorem Besuere libero Spring sed Durus aulviner
+2023-05-22 23:31:36 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor conque libero Durus magna sed adipiscina Microservices conque Durus Besuere sed Besuere
+2023-05-22 23:31:37 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed Durus Lorem Besuere sensectetuer elit Elasticsearch ipsum ipsum adipiscina elit
+2023-05-22 23:31:38 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor aulviner porttitor dolor elit ascenes sed Durus Spring Besuere magna libero aulviner libero Durus
+2023-05-22 23:31:39 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ipsum Besuere Dasse ascenes Lorem magna sensectetuer Microservices Durus ultricies elit magna elit
+2023-05-22 23:31:40 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit elit dolor libero porttitor Microservices ascenes magna Besuere
+2023-05-22 23:31:41 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque ipsum elit libero libero sed magna sed Elasticsearch conque libero Lorem dolor sed Besuere
+2023-05-22 23:31:42 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere sensectetuer elit Besuere elit ultricies Kafka magna Lorem Dasse adipiscina
+2023-05-22 23:31:43 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem ipsum aulviner ascenes Durus magna libero Spring Durus ipsum sensectetuer ipsum magna adipiscina
+2023-05-22 23:31:44 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes conque Durus sensectetuer libero porttitor sed Kafka Lorem ascenes ipsum porttitor Durus
+2023-05-22 23:31:45 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero conque dolor porttitor Durus ipsum ultricies ipsum Elasticsearch ipsum sensectetuer dolor aulviner libero ascenes libero
+2023-05-22 23:31:46 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner Lorem magna ipsum sed aulviner Kafka elit Dasse sed ultricies
+2023-05-22 23:31:47 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor Lorem ultricies adipiscina Lorem Kafka porttitor elit elit sensectetuer
+2023-05-22 23:31:48 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere adipiscina adipiscina elit conque elit Kafka adipiscina ipsum Durus sed
+2023-05-22 23:31:49 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer Durus dolor porttitor libero Microservices sensectetuer Besuere libero
+2023-05-22 23:31:50 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor porttitor magna magna ultricies Java porttitor sensectetuer porttitor
+2023-05-22 23:31:51 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem Besuere porttitor sensectetuer elit Microservices ascenes adipiscina ipsum
+2023-05-22 23:31:52 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner aulviner elit dolor libero Dasse Lorem Kafka sed Durus Besuere sensectetuer Dasse
+2023-05-22 23:31:54 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit aulviner aulviner aulviner ipsum Spring ultricies Lorem conque
+2023-05-22 23:31:55 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem sed libero conque ultricies sed aulviner Microservices ultricies Dasse aulviner elit Besuere
+2023-05-22 23:31:56 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer aulviner ipsum ascenes ipsum Durus Lorem Microservices dolor aulviner elit aulviner Besuere ipsum
+2023-05-22 23:31:57 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero adipiscina Durus magna elit porttitor ipsum Microservices Durus adipiscina conque Durus Dasse
+2023-05-22 23:31:58 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit adipiscina ipsum Lorem Elasticsearch sed adipiscina
+2023-05-22 23:31:59 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes ipsum Lorem Besuere ascenes Besuere sensectetuer Spring ipsum porttitor elit elit ipsum Durus
+2023-05-22 23:32:00 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina conque libero libero libero conque porttitor aulviner Spring Durus Besuere sensectetuer dolor Dasse elit
+2023-05-22 23:32:01 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed Dasse ipsum Besuere adipiscina Kafka aulviner aulviner libero
+2023-05-22 23:32:02 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer aulviner elit Spring porttitor adipiscina
+2023-05-22 23:32:03 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero Dasse ipsum adipiscina Durus sensectetuer ipsum Java Durus ipsum Dasse dolor Besuere
+2023-05-22 23:32:04 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer elit ascenes ultricies Spring Dasse Besuere
+2023-05-22 23:32:05 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies libero ipsum adipiscina Java libero ascenes magna
+2023-05-22 23:32:06 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes aulviner dolor Besuere aulviner ascenes sensectetuer adipiscina Elasticsearch conque dolor sensectetuer ascenes porttitor Durus aulviner
+2023-05-22 23:32:07 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed conque Dasse Besuere Java Dasse porttitor dolor
+2023-05-22 23:32:08 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere aulviner Durus ipsum magna Java porttitor adipiscina dolor
+2023-05-22 23:32:09 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text adipiscina ipsum sensectetuer dolor elit adipiscina Spring libero Lorem magna ascenes
+2023-05-22 23:32:10 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit elit libero ultricies Besuere Java adipiscina sed libero Dasse
+2023-05-22 23:32:11 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero ascenes porttitor sensectetuer Lorem Lorem Microservices ultricies sensectetuer sensectetuer ultricies
+2023-05-22 23:32:12 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere libero ultricies Besuere Spring sensectetuer ultricies
+2023-05-22 23:32:13 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor ipsum magna dolor Lorem dolor conque Dasse Kafka adipiscina ascenes sed libero Lorem elit
+2023-05-22 23:32:14 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse porttitor elit Besuere aulviner elit magna Java ultricies Dasse adipiscina Lorem Besuere Lorem
+2023-05-22 23:32:15 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes sensectetuer ascenes porttitor Spring adipiscina Durus
+2023-05-22 23:32:16 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque aulviner Besuere magna Spring ascenes magna Besuere
+2023-05-22 23:32:17 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit elit sensectetuer Spring ascenes adipiscina
+2023-05-22 23:32:18 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero conque ipsum ascenes Java elit dolor
+2023-05-22 23:32:19 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner conque Durus sed Lorem dolor porttitor Elasticsearch Durus Dasse libero aulviner Lorem aulviner
+2023-05-22 23:32:20 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sensectetuer porttitor ultricies Lorem aulviner Durus Microservices sed elit adipiscina magna conque
+2023-05-22 23:32:21 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed dolor Besuere sed Java aulviner adipiscina sensectetuer
+2023-05-22 23:32:22 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies ultricies elit libero porttitor ascenes ipsum ascenes Kafka porttitor libero Dasse Lorem conque elit
+2023-05-22 23:32:23 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ultricies aulviner ascenes adipiscina conque ascenes ascenes Java conque Durus Besuere Durus Durus
+2023-05-22 23:32:24 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor libero Dasse ascenes sensectetuer sed dolor Dasse Microservices ascenes Durus Besuere elit ipsum Dasse libero
+2023-05-22 23:32:25 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text libero ipsum Durus elit dolor Durus ascenes conque Spring Besuere ascenes Durus dolor libero sed dolor
+2023-05-22 23:32:26 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit libero aulviner Microservices Durus sensectetuer
+2023-05-22 23:32:27 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes Durus ultricies Dasse ascenes Spring porttitor ipsum libero
+2023-05-22 23:32:28 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor conque aulviner Lorem Durus magna ultricies Microservices adipiscina magna elit ascenes ascenes sed
+2023-05-22 23:32:29 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text magna Dasse magna Besuere Dasse Lorem dolor adipiscina Spring Durus adipiscina magna ipsum sed dolor sed
+2023-05-22 23:32:30 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque Durus dolor porttitor ultricies elit Kafka Lorem elit aulviner magna ascenes
+2023-05-22 23:32:31 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse sensectetuer dolor sensectetuer Elasticsearch dolor porttitor
+2023-05-22 23:32:32 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes elit magna Besuere sed Dasse libero Dasse Microservices adipiscina porttitor conque libero dolor Besuere elit
+2023-05-22 23:32:33 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Lorem dolor Lorem ipsum elit sed ipsum magna Java Besuere ascenes ultricies sensectetuer aulviner porttitor Lorem
+2023-05-22 23:32:34 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor adipiscina sed sed sed porttitor ultricies porttitor Java dolor magna sensectetuer ascenes sensectetuer adipiscina
+2023-05-22 23:32:35 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Dasse ultricies Durus Lorem magna Durus elit ultricies Kafka aulviner dolor aulviner ipsum porttitor sensectetuer
+2023-05-22 23:32:36 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner sed ascenes Elasticsearch ascenes ultricies
+2023-05-22 23:32:37 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed sensectetuer aulviner aulviner sensectetuer sensectetuer Dasse Spring libero sed aulviner elit Besuere
+2023-05-22 23:32:38 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor Durus adipiscina Elasticsearch adipiscina Lorem
+2023-05-22 23:32:39 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque libero Besuere Lorem Besuere aulviner adipiscina Java porttitor dolor elit conque dolor conque
+2023-05-22 23:32:40 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit conque adipiscina ascenes sed Microservices sed Besuere dolor conque
+2023-05-22 23:32:41 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text ascenes conque dolor libero Besuere ultricies conque Elasticsearch elit Besuere libero dolor ascenes
+2023-05-22 23:32:42 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Besuere libero ipsum sed sensectetuer Java magna elit aulviner
+2023-05-22 23:32:43 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text conque Besuere adipiscina magna dolor Lorem Durus Kafka ascenes ipsum porttitor sensectetuer conque ipsum
+2023-05-22 23:32:44 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed magna Lorem elit adipiscina Microservices ipsum ultricies libero sensectetuer
+2023-05-22 23:32:45 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor Besuere dolor ascenes ultricies Elasticsearch magna porttitor elit Dasse
+2023-05-22 23:32:46 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text Durus Durus Lorem Microservices Dasse porttitor
+2023-05-22 23:32:47 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text magna libero aulviner Durus Microservices Lorem sensectetuer
+2023-05-22 23:32:48 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit libero ascenes Dasse magna Kafka Durus Dasse conque
+2023-05-22 23:32:49 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor Lorem Dasse magna Elasticsearch Lorem ascenes
+2023-05-22 23:32:50 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text porttitor sensectetuer magna dolor ipsum porttitor ultricies magna Kafka aulviner conque conque Durus ascenes sensectetuer Lorem
+2023-05-22 23:32:51 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text elit elit adipiscina dolor magna Lorem sed Durus Microservices Durus dolor conque elit ultricies Besuere
+2023-05-22 23:32:52 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner Dasse Lorem Dasse aulviner Elasticsearch conque adipiscina ultricies
+2023-05-22 23:32:53 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text dolor ultricies aulviner sensectetuer Kafka ultricies ultricies Durus
+2023-05-22 23:32:54 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text sed magna sed libero aulviner Besuere Java elit ipsum ascenes sensectetuer elit
+2023-05-22 23:32:55 [pool-2-thread-1] INFO  i.m.p.l.TwitterKafkaStatusListener - Twitter status with text aulviner sensectetuer aulviner ultricies porttitor porttitor Java elit porttitor conque Besuere

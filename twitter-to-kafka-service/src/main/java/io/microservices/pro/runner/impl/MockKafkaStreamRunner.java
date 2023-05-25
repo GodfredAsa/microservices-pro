@@ -1,5 +1,4 @@
 package io.microservices.pro.runner.impl;
-
 import io.microservices.pro.config.TwitterToKafkaServiceConfigData;
 import io.microservices.pro.exception.TwitterToKafkaServiceException;
 import io.microservices.pro.listener.TwitterKafkaStatusListener;

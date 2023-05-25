@@ -24,6 +24,7 @@
 		<spring-boot.version>3.0.6</spring-boot.version>
 		<lombok.version>1.18.26</lombok.version>
 		<twitter-stream.version>4.0.7</twitter-stream.version>
+		<avro.version>1.10.0</avro.version>
 	</properties>
 
 
@@ -49,6 +50,12 @@
 				<version>${twitter-stream.version}</version>
 			</dependency>
 
+			<dependency>
+				<groupId>org.apache.avro</groupId>
+				<artifactId>avro</artifactId>
+				<version>${avro.version}</version>
+			</dependency>
+
 
 			<dependency>
 				<groupId>org.projectlombok</groupId>
@@ -68,6 +75,6 @@
 			</plugin>
 		</plugins>
 
-		<pluginManagement></pluginManagement>
+<!--		<pluginManagement></pluginManagement>-->
 	</build>
 </project>
