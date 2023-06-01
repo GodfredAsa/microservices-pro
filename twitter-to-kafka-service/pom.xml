@@ -41,6 +41,18 @@
         </dependency>
 
         <dependency>
+            <groupId>io.microservices.pro</groupId>
+            <artifactId>kafka-admin</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.microservices.pro</groupId>
+            <artifactId>kafka-producer</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <scope>compile</scope>

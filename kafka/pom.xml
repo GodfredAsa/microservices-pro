@@ -17,10 +17,30 @@
         <module>kafka-producer</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.microservices.pro</groupId>
+            <artifactId>app-config-data</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>${spring-boot.version}</version>
+            </plugin>
+        </plugins>
+
+        <!--		<pluginManagement></pluginManagement>-->
+    </build>
 
 </project>
